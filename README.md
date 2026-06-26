@@ -355,18 +355,6 @@ Click:
 
 ---
 
-# 🌟 Why This Project?
-
-Unlike traditional GitHub analysis tools, this extension:
-
-* ✅ Runs completely offline
-* ✅ Requires no GitHub API
-* ✅ Performs instant analysis
-* ✅ Protects user privacy
-* ✅ Helps developers prepare for technical interviews
-* ✅ Provides recruiter-focused feedback
-* ✅ Audits both repositories and developer portfolios
-
 ---
 
 # 📈 Skills Demonstrated
