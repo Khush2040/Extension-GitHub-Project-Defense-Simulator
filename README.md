@@ -386,15 +386,4 @@ Unlike traditional GitHub analysis tools, this extension:
 
 ---
 
-# 🔮 Future Improvements
-
-* AI-powered code explanation
-* Repository comparison
-* ATS resume scoring
-* GitHub contribution heatmap analytics
-* Export reports as PDF
-* Multi-repository portfolio insights
-* Personalized interview roadmap
-
----
 
